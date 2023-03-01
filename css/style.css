@@ -33,3 +33,19 @@
 #onpage {
   text-decoration: underline overline;
 }
+#sidebar {
+  position: fixed;
+  right: 0%
+  background-color: red;
+  height: 100%;
+  width: 20%;
+}
+#sidebar ul {
+  
+}
+#sidebar ul li a {
+  
+}
+#sidebar ul li a:hover {
+  
+}
