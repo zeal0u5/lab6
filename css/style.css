@@ -9,4 +9,22 @@
 }
 #main-navbar ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  display: block;
+}
+#main-navbar ul li {
+  display: block;
+  color: #ffff;
+  right: 50%;
+}
+#main-navbar ul li a:hover {
+  text-decoration: underline overline;
+}
+main-navbar ul li a {
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: #0000;
 }
