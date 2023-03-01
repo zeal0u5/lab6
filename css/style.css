@@ -13,18 +13,23 @@
   padding: 0;
   position: relative;
   left: 50%;
-  display: block;
+  float: left;
 }
 #main-navbar ul li {
   display: block;
-  color: #ffff;
+  position: relative;
   right: 50%;
+  float: left;
 }
 #main-navbar ul li a:hover {
-  text-decoration: underline overline;
+  background-color: #0000;
 }
 main-navbar ul li a {
   padding: 10px 20px;
   text-decoration: none;
-  background-color: #0000;
+  display: block;
+  color: #ffff
+}
+#onpage {
+  text-decoration: underline overline;
 }
