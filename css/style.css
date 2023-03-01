@@ -35,7 +35,7 @@
 }
 #sidebar {
   position: fixed;
-  right: 0%
+  right:0%;
   background-color: red;
   height: 100%;
   width: 20%;
@@ -48,9 +48,9 @@
 #sidebar ul li a {
   display: block;
   padding: 15px 0;
-  color: #ffff;
+  color: #fff;
   text-decoration: none;
 }
 #sidebar ul li a:hover {
-  background-color: #0000;
+  background-color: #000;
 }
